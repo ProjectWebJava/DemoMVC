@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/Manager.jsp=UTF-8
+encoding//WebContent/admin/QLKhachHang.jsp=UTF-8
+encoding//src/controller/Login.java=UTF-8
+encoding//src/controller/ViewBook.java=UTF-8
+encoding//src/controller/ViewCart.java=UTF-8
+encoding//src/controller/admin/AdminManager.java=UTF-8
+encoding//src/controller/admin/AdminQLSach.java=UTF-8
+encoding//src/model/Control_Book.java=UTF-8
+encoding//src/model/Control_Image.java=UTF-8
+encoding//src/model/DBConnection.java=UTF-8
